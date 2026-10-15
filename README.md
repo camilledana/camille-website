@@ -27,9 +27,8 @@ What I learned: ...
  
 What I learned: ...
 
-#Use a dictionary to track student grades.
+#Use a dictionary to track student grades and loop until quit.
     grades = {}
-    # Loop until the user chooses to quit.
     choice = ""
     while choice != "Q":
     choice = input("(A)dd, (R)emove, (M)odify, (P)rint all, or (Q)uit? ")
@@ -47,20 +46,20 @@ What I learned: ...
     # Handle removing a student.
     elif choice == "R":
     name = input("What student do you want to remove? ")
-   if name in grades:
-   grades.pop(name)
-   else :
-   print("Sorry, that student doesn't exist and couldn't be removed.")
+     if name in grades:
+     grades.pop(name)
+     else :
+     print("Sorry, that student doesn't exist and couldn't be removed.")
 
     # Handle modifying a student grade.
    elif choice == "M":
-   name = input("Enter the name of the student to modify: ")
-   if name in grades:
-   print("The old grade is", grades[name])
-   grade = input("Enter the new grade: ")
-   grades[name] = grade
-   else :
-   print("Sorry, that student doesn't exist and couldn't be modified.")
+     name = input("Enter the name of the student to modify: ")
+     if name in grades:
+     print("The old grade is", grades[name])
+     grade = input("Enter the new grade: ")
+     grades[name] = grade
+       else :
+       print("Sorry, that student doesn't exist and couldn't be modified.")
 
     # Handle printing all of the students.
    elif choice == "P":
