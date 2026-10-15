@@ -88,7 +88,7 @@ What I learned: ...
     self._value=0
 </h3>
 
- <h3>EXPERIENCE
+ <h3>EXPERIENCE</h3>
 
    Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
 
@@ -114,7 +114,7 @@ EDUCATION
 TECHNICAL SKILLS 
 
   Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
-</h3>
+
 
 <h1>About Me</h1>
 <h3>I'm Camille, a software engineering graduate student at UMGC with a B.S. in CIS and a background in Python development and IT support. I'm fascinated by AI engineering and the challenge of building systems that are intelligent, scalable, and genuinely useful to people.</h3>
