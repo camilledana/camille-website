@@ -27,4 +27,16 @@ What I learned: ...</h3>
 <h1>Speaking</h1>
 <h1>My Projects</h1>
 <h1>Mod Musings</h1>
+<h2>"How I learned StarUML in two weeks"</h2>
+<h2>"Balancing grad school and life"</h2>
+<h3>Title
+Date | Tags
+Intro paragraph
+Body (headers, code blocks, images)
+Takeaway or call to action</h3>
 <h1>Resources</h1>
+<h2>AI Engineering
+
+Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.
+
+LangChain Docs — Framework for building LLM-powered applications.</h2>
