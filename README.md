@@ -39,7 +39,6 @@ What I learned: ...</h3>
    #
    defClick(self):
      self._value=self._value+1
-
    ##Resets the value of this counter to 0.
    #
      def reset(self):
