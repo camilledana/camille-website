@@ -7,8 +7,6 @@
 
 What I learned: ...
 
-Python Code:
-
     user=input('Please enter employee name: ')
     hrpay=float(input('hourly wage in dollars: '))
     hrperweek=float(input('hours worked per week: '))
@@ -26,15 +24,28 @@ Python Code:
 </h3>
 
 <h3>Student Grades
-[Live Demo] [Source Code]
+
 Dictionary of students and their courses
-Technologies: React, Node.js, PostgreSQL, AWS
+Technologies: Python
 What I learned: ...</h3>
 
-<h3>Tally Counter
-[Live Demo] [Source Code]
+<h3>Class Counter
+
+##Gets current value of counter and returns at current value.
+def getValue(self):
+   return self.value
+  ##Advances the value of this counter by 1.
+  #
+  defClick(self):
+    self._value=self._value+1
+
+   ##Resets the value of this counter to 0.
+   #
+   def reset(self):
+     self._value=0
+
 Simulate a tally counter with a limited number of people.
-Technologies: React, Node.js, PostgreSQL, AWS
+Technologies: Python
 What I learned: ...</h3>
 
 <h1>About Me</h1>
