@@ -8,15 +8,15 @@ Software Engineering Graduate Student | Building AI-Native Systems
 [Live Demo] [Source Code]
 One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
-What I learned: ...
+What I learned: ...</h3>
 
-Project Name 2
+<h3>Project Name 2
 [Live Demo] [Source Code]
 One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
-What I learned: ...
+What I learned: ...</h3>
 
-Project Name 3
+<h3>Project Name 3
 [Live Demo] [Source Code]
 One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
