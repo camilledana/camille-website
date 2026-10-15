@@ -8,8 +8,8 @@
 
 
 Employee gross wage
-
-#Camille Dana
+Python
+What I learned: ...
 
 user=input('Please enter employee name: ')
 hrpay=float(input('hourly wage in dollars: '))
@@ -28,8 +28,7 @@ print("Base Pay: $" + str(basepay))
 print("Overtime: $" + str(overtime))
 print("Gross Pay: $" + str(grosspay))
 
-Python
-What I learned: ...</h3>
+</h3>
 
 <h3>Project Name 2
 [Live Demo] [Source Code]
