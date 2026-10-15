@@ -1,5 +1,5 @@
 <h1>Welcome to my website</h1>
-<h2>Camille Dana
+<h2><strong>Camille Dana</strong<b></b>
 Software Engineering Graduate Student | Building AI-Native Systems
 [View Work] [Read Musings] [Contact]<h2/>
 <h1>Work</h1>
