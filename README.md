@@ -88,7 +88,7 @@ What I learned: ...
     self._value=0
 </h3>
 
- <h3>EXPERIENCE</h3>
+ <h2>EXPERIENCE</h2>
 
    Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
 
