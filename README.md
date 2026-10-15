@@ -10,8 +10,7 @@ One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
 What I learned: ...
 
-
-  Project Name 2
+Project Name 2
 [Live Demo] [Source Code]
 One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
@@ -21,7 +20,7 @@ Project Name 3
 [Live Demo] [Source Code]
 One-sentence description.
 Technologies: React, Node.js, PostgreSQL, AWS
-What I learned: ...<h3>
+What I learned: ...</h3>
 
 <h1>About Me</h1>
 <h1>Speaking</h1>
