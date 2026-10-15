@@ -38,11 +38,11 @@ What I learned: ...
     # Handle adding a new student.
     if choice == "A":
     name = input("Enter the name of the student: ")
-    if name in grades:
-    print("Sorry, that student is already present.")
-    else : 
-    grade = input("Enter the student's grade: ")
-    grades[name] = grade
+      if name in grades:
+      print("Sorry, that student is already present.")
+        else : 
+        grade = input("Enter the student's grade: ")
+        grades[name] = grade
 
     # Handle removing a student.
     elif choice == "R":
