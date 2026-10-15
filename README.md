@@ -30,6 +30,10 @@ Technologies: Python
 What I learned: ...</h3>
 
 <h3>Class Counter
+Simulate a tally counter with a limited number of people.
+Technologies: Python
+What I learned: ...
+ 
    #Gets current value of counter and returns at current value.
     def getValue(self):
     return self.value
@@ -41,10 +45,7 @@ What I learned: ...</h3>
    #
      def reset(self):
      self._value=0
-
-Simulate a tally counter with a limited number of people.
-Technologies: Python
-What I learned: ...</b></h3>
+</b></h3>
 
 <h1>About Me</h1>
 <h3>I'm Camille, a software engineering graduate student at UMGC with a B.A. in CIS and a background in Python development and IT support. I'm fascinated by AI engineering and the challenge of building systems that are intelligent, scalable, and genuinely useful to people.</h3>
