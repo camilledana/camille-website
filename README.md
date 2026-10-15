@@ -21,11 +21,8 @@ Python Code:
     grosspay=basepay+overtime
     print("Employee Name: " + user)
     print("Base Pay: $" + str(basepay))
-
-   print("Overtime: $" + str(overtime))
-
-   print("Gross Pay: $" + str(grosspay))
-
+    print("Overtime: $" + str(overtime))
+    print("Gross Pay: $" + str(grosspay))
 </h3>
 
 <h3>Project Name 2
