@@ -50,7 +50,7 @@ What I learned: ...
      else :
      print("Sorry, that student doesn't exist and couldn't be removed.")
 
-    #Handle modifying a student grade.
+    # Handle modifying a student grade.
      elif choice == "M":
      name = input("Enter the name of the student to modify: ")
      if name in grades:
@@ -69,7 +69,7 @@ What I learned: ...
       elif choice == "Q":
       print("Goodbye!")
 
-    #Handle the case of invalid input.
+    # Handle the case of invalid input.
      else :
      print("Sorry, that wasn't a valid choice.")
 
