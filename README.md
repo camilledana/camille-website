@@ -31,17 +31,17 @@ What I learned: ...</h3>
 
 <h3>Class Counter
 
-##Gets current value of counter and returns at current value.
-def getValue(self):
+ ##Gets current value of counter and returns at current value.
+   def getValue(self):
    return self.value
-  ##Advances the value of this counter by 1.
-  #
+ ##Advances the value of this counter by 1.
+ #
   defClick(self):
     self._value=self._value+1
 
    ##Resets the value of this counter to 0.
    #
-   def reset(self):
+     def reset(self):
      self._value=0
 
 Simulate a tally counter with a limited number of people.
