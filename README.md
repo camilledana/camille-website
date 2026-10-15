@@ -3,10 +3,32 @@
 [View Work] [Read Musings] [Contact]<h2/>
 <h1>Work</h1>
  
-  <h3>Project Name 1
-[Live Demo] [Source Code]
-One-sentence description.
-Technologies: React, Node.js, PostgreSQL, AWS
+  <h3>Coding
+
+
+
+Employee gross wage
+
+#Camille Dana
+
+user=input('Please enter employee name: ')
+hrpay=float(input('hourly wage in dollars: '))
+hrperweek=float(input('hours worked per week: '))
+if hrperweek <= 40:
+    basepay= round(hrpay*hrperweek,2)
+    overtime=0
+else:
+    basepay=round(40*hrpay, 2)
+    overtime=round((hrperweek-40)*(1.5*hrpay), 2)
+
+grosspay=basepay+overtime
+
+print("Employee Name: " + user)
+print("Base Pay: $" + str(basepay))
+print("Overtime: $" + str(overtime))
+print("Gross Pay: $" + str(grosspay))
+
+Python
 What I learned: ...</h3>
 
 <h3>Project Name 2
