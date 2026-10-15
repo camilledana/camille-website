@@ -37,7 +37,7 @@ What I learned: ...</h3>
     return self.value
    ##Advances the value of this counter by 1.
    #
-   defClick(self):
+   <b>defClick(self):
      self._value=self._value+1
    ##Resets the value of this counter to 0.
    #
@@ -46,7 +46,7 @@ What I learned: ...</h3>
 
 Simulate a tally counter with a limited number of people.
 Technologies: Python
-What I learned: ...</h3>
+What I learned: ...</b></h3>
 
 <h1>About Me</h1>
 <h3>I'm Camille, a software engineering graduate student at UMGC with a B.A. in CIS and a background in Python development and IT support. I'm fascinated by AI engineering and the challenge of building systems that are intelligent, scalable, and genuinely useful to people.</h3>
