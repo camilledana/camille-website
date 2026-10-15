@@ -1,7 +1,7 @@
 <strong></strong><b></b><h1>Camille Dana</h1>
-<h1>Software Engineering Graduate Student | Building AI-Native Systems
-[View Work] [Read Musings] [Contact]<h1/>
-<h2>Work</h2>
+<h2>Software Engineering Graduate Student | Building AI-Native Systems
+[View Work] [Read Musings] [Contact]<h2/>
+<h1>Work</h1>
  
   <h3>Employee gross wage
 
