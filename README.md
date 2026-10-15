@@ -5,12 +5,10 @@
  
   <h3>Coding
 
-
-
 Employee gross wage in Python
 
-
 What I learned: ...
+
 
 user=input('Please enter employee name: ')
 
