@@ -90,32 +90,30 @@ What I learned: ...
 
 <h/3>EXPERIENCE
 
-Camille Dana  
+   Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
 
-Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
+   **	UMGC | Adelphi, MD 
+   AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
 
-**	UMGC | Adelphi, MD 
-AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL (MongoDB)...
+   **California State University, Stanislaus | Turlock, CA  
+   Python Developer | January 2018 – June 2024		Software Engineer| January 2024 – Present 
+   High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
 
-**California State University, Stanislaus | Turlock, CA  
-Python Developer | January 2018 – June 2024		Software Engineer| January 2024 – Present 
-High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
-
-Denair Unified School District | Denair, CA USA 
-IT Support Assistant | January 2019 – November 2019 
-Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
+   Denair Unified School District | Denair, CA USA 
+   IT Support Assistant | January 2019 – November 2019 
+   Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
 EDUCATION 
 
-University of Maryland Global Campus | Adelphi, Maryland 
-Master of Science in Software Engineering / Computer Science | 2028 
+  University of Maryland Global Campus | Adelphi, Maryland 
+  Master of Science in Software Engineering / Computer Science | 2028 
 
-California State University of Stanislaus | Turlock, California 
-Bachelor of Science in Computer Information Systems / Business Administration | 2024 
+  California State University of Stanislaus | Turlock, California 
+  Bachelor of Science in Computer Information Systems / Business Administration | 2024 
 
 TECHNICAL SKILLS 
 
-Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker, MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum, CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
+  Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
 
 
 <h1>About Me</h1>
