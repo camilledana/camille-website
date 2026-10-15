@@ -8,6 +8,7 @@
 What I learned: ...
 
 Python Code:
+
     user=input('Please enter employee name: ')
 
     hrpay=float(input('hourly wage in dollars: '))
@@ -27,11 +28,11 @@ Python Code:
 
    print("Employee Name: " + user)
 
-  print("Base Pay: $" + str(basepay))
+   print("Base Pay: $" + str(basepay))
 
-  print("Overtime: $" + str(overtime))
+   print("Overtime: $" + str(overtime))
 
-  print("Gross Pay: $" + str(grosspay))
+   print("Gross Pay: $" + str(grosspay))
 
 </h3>
 
