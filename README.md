@@ -51,7 +51,7 @@ What I learned: ...
      print("Sorry, that student doesn't exist and couldn't be removed.")
 
     #Handle modifying a student grade.
-   elif choice == "M":
+     elif choice == "M":
      name = input("Enter the name of the student to modify: ")
      if name in grades:
      print("The old grade is", grades[name])
@@ -61,17 +61,17 @@ What I learned: ...
        print("Sorry, that student doesn't exist and couldn't be modified.")
 
     # Handle printing all of the students.
-   elif choice == "P":
+      elif choice == "P":
       for name in sorted(grades):
          print("%s: %s" % (name, grades[name]))
 
     # Handle the case for quiting.
-    elif choice == "Q":
-    print("Goodbye!")
+      elif choice == "Q":
+      print("Goodbye!")
 
     #Handle the case of invalid input.
-    else :
-    print("Sorry, that wasn't a valid choice.")
+     else :
+     print("Sorry, that wasn't a valid choice.")
 
 </h3>
 
