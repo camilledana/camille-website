@@ -36,8 +36,8 @@ What I learned: ...</h3>
     return self.value
     defClick(self):
     self._value=self._value+1
-   def reset(self):
-   self._value=0
+    def reset(self):
+    self._value=0
 </h3>
 
 <h1>About Me</h1>
