@@ -33,7 +33,7 @@ What I learned: ...
     choice = input("(A)dd, (R)emove, (M)odify, (P)rint all, or (Q)uit? ")
     choice = choice.upper()
     
-    #Handle adding a new student.
+    # Handle adding a new student.
     if choice == "A":
     name = input("Enter the name of the student: ")
       if name in grades:
@@ -42,7 +42,7 @@ What I learned: ...
         grade = input("Enter the student's grade: ")
         grades[name] = grade
 
-    #Handle removing a student.
+    # Handle removing a student.
     elif choice == "R":
     name = input("What student do you want to remove? ")
      if name in grades:
