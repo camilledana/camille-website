@@ -23,19 +23,14 @@ What I learned: ...
     print("Gross Pay: $" + str(grosspay))
 </h3>
 
-<h3>Student Grades
-
-Dictionary of students and their courses
-Technologies: Python
+   <h3>Dictionary of students grades and their courses
+ 
 What I learned: ...</h3>
 
 
-<h3>Class Counter
- 
-Simulate a tally counter with a limited number of people.
-Technologies: Python
-What I learned: ...
+<h3>Count a class tally with a limited number of people in Python.
 
+ What I learned: ...
  
  #Gets current value of counter and returns at current value.
     def getValue(self):
@@ -43,11 +38,11 @@ What I learned: ...
    ##Advances the value of this counter by 1.
    #
    <b>defClick(self):
-     self._value=self._value+1
+    self._value=self._value+1
    ##Resets the value of this counter to 0.
    #
-     def reset(self):
-     self._value=0
+   def reset(self):
+   self._value=0
 </b></h3>
 
 <h1>About Me</h1>
