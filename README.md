@@ -29,10 +29,12 @@ Dictionary of students and their courses
 Technologies: Python
 What I learned: ...</h3>
 
+
 <h3>Class Counter
+ 
 Simulate a tally counter with a limited number of people.
 Technologies: Python
-What I learned: ...
+What I learned: ...<h/3>
  
    #Gets current value of counter and returns at current value.
     def getValue(self):
