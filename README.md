@@ -1,4 +1,4 @@
-<strong></strong><b></b><span style="color:blue"><h1>Camille Dana blue</span></h1>
+<strong></strong><b></b><span style="color:blue"><h1>Camille Dana </span></h1>
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
 [View Work] [Read Musings] [Contact]<h2/>
 <h1>Work</h1>
