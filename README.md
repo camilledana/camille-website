@@ -23,18 +23,17 @@ What I learned: ...
     print("Gross Pay: $" + str(grosspay))
 </h3>
 
-   <h3>Dictionary of students grades and their courses.
+   <h3>Use a dictionary to track student grades and loop until quit.
  
 What I learned: ...
-
-#Use a dictionary to track student grades and loop until quit.
+    
     grades = {}
     choice = ""
     while choice != "Q":
     choice = input("(A)dd, (R)emove, (M)odify, (P)rint all, or (Q)uit? ")
     choice = choice.upper()
     
-    # Handle adding a new student.
+    #Handle adding a new student.
     if choice == "A":
     name = input("Enter the name of the student: ")
       if name in grades:
@@ -43,7 +42,7 @@ What I learned: ...
         grade = input("Enter the student's grade: ")
         grades[name] = grade
 
-    # Handle removing a student.
+    #Handle removing a student.
     elif choice == "R":
     name = input("What student do you want to remove? ")
      if name in grades:
@@ -51,7 +50,7 @@ What I learned: ...
      else :
      print("Sorry, that student doesn't exist and couldn't be removed.")
 
-    # Handle modifying a student grade.
+    #Handle modifying a student grade.
    elif choice == "M":
      name = input("Enter the name of the student to modify: ")
      if name in grades:
@@ -70,7 +69,7 @@ What I learned: ...
     elif choice == "Q":
     print("Goodbye!")
 
-    # Handle the case of invalid input.
+    #Handle the case of invalid input.
     else :
     print("Sorry, that wasn't a valid choice.")
 
