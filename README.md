@@ -25,15 +25,15 @@ Python Code:
     print("Gross Pay: $" + str(grosspay))
 </h3>
 
-<h3>Project Name 2
+<h3>Student Grades
 [Live Demo] [Source Code]
-One-sentence description.
+Dictionary of students and their courses
 Technologies: React, Node.js, PostgreSQL, AWS
 What I learned: ...</h3>
 
-<h3>Project Name 3
+<h3>Tally Counter
 [Live Demo] [Source Code]
-One-sentence description.
+Simulate a tally counter with a limited number of people.
 Technologies: React, Node.js, PostgreSQL, AWS
 What I learned: ...</h3>
 
