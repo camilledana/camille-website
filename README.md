@@ -34,9 +34,10 @@ What I learned: ...</h3>
  
 Simulate a tally counter with a limited number of people.
 Technologies: Python
-What I learned: ...<h/3>
+What I learned: ...
+
  
-   #Gets current value of counter and returns at current value.
+ #Gets current value of counter and returns at current value.
     def getValue(self):
     return self.value
    ##Advances the value of this counter by 1.
