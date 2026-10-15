@@ -3,13 +3,11 @@
 [View Work] [Read Musings] [Contact]<h2/>
 <h1>Work</h1>
  
-  <h3>Coding
-
-Employee gross wage in Python
+  <h3>Employee gross wage
 
 What I learned: ...
 
-
+Python Code:
 user=input('Please enter employee name: ')
 
 hrpay=float(input('hourly wage in dollars: '))
