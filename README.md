@@ -4,7 +4,7 @@
     <meta charset +"UTF-8">
     <meta name = "viewport" content = width = device-width, initial-scale=
  </head>
- <title><strong></strong><b></b><h1>Camille Dana </h1></title>
+ <strong></strong><b></b><h1>Camille Dana </h1>
  <body>
     <!--Navigation Bar-->
     <nav class = "navbar >
