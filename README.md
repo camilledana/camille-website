@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang = "en">
+ <head>
+    <meta charset +"UTF-8">
+    <meta name = "viewport" content = width = device-width, initial-scale=
+ </head>
 <strong></strong><b></b><h1>Camille Dana </h1>
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
 [View Work] [Read Musings] [Contact]<h2/>
