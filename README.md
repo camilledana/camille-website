@@ -4,7 +4,19 @@
     <meta charset +"UTF-8">
     <meta name = "viewport" content = width = device-width, initial-scale=
  </head>
-<strong></strong><b></b><h1>Camille Dana </h1>
+ <title><strong></strong><b></b><h1>Camille Dana </h1></title>
+ <body>
+    <!--Navigation Bar-->
+    <nav class = "navbar >
+      <div class = "nav-container">
+      <a href = "#" class="nav-logo"> DeveloperPortfolio<a/>
+      <ul class = "nav-links">
+        <li><a heref="#about"> About</a></li>
+        <li><a heref="#skills"> Skills</a></li>
+        <li><a heref="#projects"> Projects</a></li>
+       <li><a heref="#contact"> Contact</a></li>
+ </body>
+
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
 [View Work] [Read Musings] [Contact]<h2/>
 <h1>Work</h1>
