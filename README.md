@@ -157,14 +157,14 @@ What I learned: ...</h3><h4>
       <h3>Hotel Management System</h3>
       <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
       <div class = "project-tags"><span>Java/span<span>OOP</span></div>
-       <aref="#" class="project-link">View Repository --></a>
+       <a href="#" class="project-link">View Repository --></a>
       <div>
     <!--Project 2-->
     <div class="project-card">
     <h3>Custom Web Application</h3>
      <p>A responsive front-end project engineered with semantics, accessibility, and modern layouts optimized for performance.</p>
      <div class-"project-tags"><span>HTML5</span><span> CSS3</span><span> UI Mockup</span></div>
-     <a href="#"class="project-link">View Repository--></a>
+     <a href="#"class="project-link">View Repository --></a>
     <div></div>
     </section>
       </div>
