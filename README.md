@@ -168,8 +168,22 @@ What I learned: ...</h3><h4>
   Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
 
 
-<h1>About Me</h1>
-   I'm Camille, a software engineering graduate student at UMGC with a B.S. in CIS and a background in Python development and IT support. I'm fascinated by AI             engineering and the challenge of building systems that are intelligent, scalable, and genuinely useful to people.
+<section id="about">
+    <h2>About Me</h2>
+
+    <p>
+        I'm Camille Dana, a Software Engineering graduate student at UMGC
+        and a Computer Information Systems graduate from California State
+        University, Stanislaus.
+    </p>
+
+    <p>
+        My interests include software engineering, artificial intelligence,
+        backend development, cloud technologies, and entrepreneurship.
+        I enjoy building practical applications that solve real-world
+        problems and create positive impact.
+    </p>
+</section>
 
 <h1>Speaking</h1>
 <h1>My Projects</h1>
