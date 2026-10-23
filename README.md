@@ -1,238 +1,369 @@
 <!DOCTYPE html>
-<html lang = "en">
- <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- </head>
- <body>
-    <!--Navigation Bar-->
-  <nav class="navbar">
-      <div class = "nav-container">
-      <a href="#" class="nav-logo">Developer Portfolio</a>
-      <ul class = "nav-links">
-        <li><a href="#work"> Work</a></li>
-        <li><a href="#about me"> About Me</a></li>
-        <li><a href="#speaking"> Speaking</a></li>
-        <li><a href="#my projects"> My Projects</a></li>
-        <li><a href="#mod musings> Mod Musings</a></li>
-        <li><a href="#resources"> Resources</a></li>
-      </ul>
-      </div>
-      </nav>
-        <!--Hero Section-->
-           <header class="hero">
-           <div class = "hero-content">
-              
- </body>
+<html lang="en">
 
-<h1><strong>Camille Dana</strong></h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camille Dana | Developer Portfolio</title>
+</head>
 
-<h2>
-Software Engineer | AI-Native Systems Builder |
-Graduate Student at UMGC
-</h2>
+<body>
 
-<div class="hero-buttons">
-    <a href="#work">View Work</a>
-    <a href="#musings">Read Musings</a>
-    <a href="#contact">Contact</a>
-</div>
-<h1>Work</h1>
- 
-  <h3>Employee gross wage
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">Developer Portfolio</a>
 
-What I learned: ...</h3><h4>
+            <ul class="nav-links">
+                <li><a href="#work">Work</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#speaking">Speaking</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#musings">Mod Musings</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
 
-    user=input('Please enter employee name: ')
-    hrpay=float(input('hourly wage in dollars: '))
-    hrperweek=float(input('hours worked per week: '))
-    if hrperweek <= 40:
-    basepay= round(hrpay*hrperweek,2)
-    overtime=0
-    else:
-    basepay=round(40*hrpay, 2)
-    overtime=round((hrperweek-40)*(1.5*hrpay), 2)
-    grosspay=basepay+overtime
-    print("Employee Name: " + user)
-    print("Base Pay: $" + str(basepay))
-    print("Overtime: $" + str(overtime))
-    print("Gross Pay: $" + str(grosspay))
-</h4>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Camille Dana</h1>
 
-   <h3>Use a dictionary to track student grades and loop until quit.
- 
-What I learned: ...</h3><h4>
-    
-    grades = {}
-    choice = ""
-    while choice != "Q":
-    choice = input("(A)dd, (R)emove, (M)odify, (P)rint all, or (Q)uit? ")
-    choice = choice.upper()
-    
-    # Handle adding a new student.
-    if choice == "A":
-    name = input("Enter the name of the student: ")
-      if name in grades:
-      print("Sorry, that student is already present.")
-        else : 
-        grade = input("Enter the student's grade: ")
-        grades[name] = grade
+            <h2>
+                Software Engineer | Graduate Student |
+                Building AI-Native Systems
+            </h2>
 
-    # Handle removing a student.
-    elif choice == "R":
-    name = input("What student do you want to remove? ")
-     if name in grades:
-     grades.pop(name)
-     else :
-     print("Sorry, that student doesn't exist and couldn't be removed.")
+            <p>
+                Passionate about software engineering, artificial intelligence,
+                cloud computing, backend development, and entrepreneurship.
+            </p>
 
-    # Handle modifying a student grade.
-     elif choice == "M":
-     name = input("Enter the name of the student to modify: ")
-     if name in grades:
-     print("The old grade is", grades[name])
-     grade = input("Enter the new grade: ")
-     grades[name] = grade
-       else :
-       print("Sorry, that student doesn't exist and couldn't be modified.")
+            <a href="#work">View Work</a>
+            <a href="#musings">Read Musings</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </header>
 
-    # Handle printing all of the students.
-      elif choice == "P":
-      for name in sorted(grades):
-         print("%s: %s" % (name, grades[name]))
+    <!-- Work Section -->
+    <section id="work">
+        <h2>Work & Coursework</h2>
 
-    # Handle the case for quiting.
-      elif choice == "Q":
-      print("Goodbye!")
+        <article>
+            <h3>Employee Gross Wage Calculator</h3>
 
-    # Handle the case of invalid input.
-     else :
-     print("Sorry, that wasn't a valid choice.")
+            <p>
+                Python application that calculates employee gross pay,
+                including overtime compensation.
+            </p>
 
-</h4>
+            <h4>What I Learned</h4>
+            <ul>
+                <li>User input validation</li>
+                <li>Conditional logic</li>
+                <li>Numeric calculations</li>
+                <li>Python data types</li>
+            </ul>
 
+            <pre><code>
+user = input("Please enter employee name: ")
 
-<h3>Count a class tally with a limited number of people in Python.
+hrpay = float(input("Hourly wage in dollars: "))
+hours = float(input("Hours worked per week: "))
 
- What I learned: ...</h3><h4>
- 
-    def getValue(self):
-    return self.value
-    defClick(self):
-    self._value=self._value+1
-    def reset(self):
-    self._value=0
-</h4>
+if hours <= 40:
+    basepay = round(hrpay * hours, 2)
+    overtime = 0
+else:
+    basepay = round(40 * hrpay, 2)
+    overtime = round((hours - 40) * (1.5 * hrpay), 2)
 
-<section id="experience">
-    <h2>Experience</h2>
+grosspay = basepay + overtime
 
-    <article>
-        <h3>University of Maryland Global Campus (UMGC)</h3>
-        <p><strong>Software Engineer</strong> | 2025-Present</p>
-        <ul>
-            <li>Built and deployed API-driven applications.</li>
-            <li>Integrated PostgreSQL and MongoDB databases.</li>
-            <li>Developed Docker-based services and backend systems.</li>
-        </ul>
-    </article>
+print("Employee Name:", user)
+print("Base Pay: $", basepay)
+print("Overtime: $", overtime)
+print("Gross Pay: $", grosspay)
+            </code></pre>
+        </article>
 
-    <article>
-        <h3>California State University, Stanislaus</h3>
-        <p><strong>Python Developer</strong> | January 2018-June 2024</p>
+        <article>
+            <h3>Student Grade Dictionary Program</h3>
 
-        <ul>
-            <li>Created Python applications and automation tools.</li>
-            <li>Developed data-processing and software engineering projects.</li>
-            <li>Applied object-oriented design principles.</li>
-        </ul>
-    </article>
+            <p>
+                Interactive Python application for managing student grades
+                using dictionary data structures.
+            </p>
 
-    <article>
-        <h3>Denair Unified School District</h3>
-        <p><strong>IT Support Assistant</strong> | January 2019-November 2019</p>
+            <h4>What I Learned</h4>
+            <ul>
+                <li>Dictionaries</li>
+                <li>Loops</li>
+                <li>CRUD operations</li>
+                <li>User interaction</li>
+            </ul>
+        </article>
 
-        <ul>
-            <li>Supported faculty, staff, and student technology needs.</li>
-            <li>Maintained computer lab hardware and software.</li>
-            <li>Troubleshot workstation and network issues.</li>
-        </ul>
-    </article>
-</section>
+        <article>
+            <h3>Class Tally Counter</h3>
 
-<b>EDUCATION</b> 
+            <p>
+                Object-oriented Python project that counts and resets values.
+            </p>
 
-  <B>University of Maryland Global Campus</B> | Adelphi, Maryland 
-  Master of Science in Software Engineering / <em> Computer Science </em> | 2028 
+            <h4>What I Learned</h4>
+            <ul>
+                <li>Classes and Objects</li>
+                <li>Methods</li>
+                <li>State management</li>
+                <li>Object-oriented programming principles</li>
+            </ul>
 
-  <B>California State University of Stanislaus</b> | Turlock, California 
-  Bachelor of Science in Computer Information Systems / <em> Business Administration </em> | 2024 
+            <pre><code>
+def getValue(self):
+    return self._value
 
-<b>TECHNICAL SKILLS</b>
-  Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
+def click(self):
+    self._value += 1
 
-
-<section id="about">
-    <h2>About Me</h2>
-
-    <p>
-        I'm Camille Dana, a Software Engineering graduate student at UMGC
-        and a Computer Information Systems graduate from California State
-        University, Stanislaus.
-    </p>
-
-    <p>
-        My interests include software engineering, artificial intelligence,
-        backend development, cloud technologies, and entrepreneurship.
-        I enjoy building practical applications that solve real-world
-        problems and create positive impact.
-    </p>
-</section>
-
-<h1>Speaking</h1>
-<h1>My Projects</h1>
-<!--Projects Section-->
-<section id="projects" class="section alt-bg">
-   <h2>Featured Projects</h2>
-   <div class ="projects-grid">
-    <!--Project 1-->
-    <div class="project-card">
-      <h3>Hotel Management System</h3>
-      <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
-      <div class ="project-tags"><span>Java/span><span>OOP</span></div>
-       <a href="#" class="project-link">View Repository --></a>
-      <div>
-    <!--Project 2-->
-    <div class="project-card">
-    <h3>Custom Web Application</h3>
-     <p>A responsive front-end project engineered with semantics, accessibility, and modern layouts optimized for performance.</p>
-     <div class="project-tags"><span>HTML5</span><span> CSS3</span><span> UI Mockup</span></div>
-     <a href="#"class="project-link">View Repository --></a>
-    <div></div>
+def reset(self):
+    self._value = 0
+            </code></pre>
+        </article>
     </section>
-      </div>
-<h1>Mod Musings</h1>
-<h2>"How I learned StarUML in two weeks"</h2>
-<h2>"Balancing grad school and life"</h2>
-       
-<h2>AI Engineering</h2>
 
-<h4><ul>
-<li>Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.</li> 
-<li>LangChain Docs — Framework for building LLM-powered applications.</li></h4></ul>
+    <!-- Experience -->
+    <section id="experience">
+        <h2>Experience</h2>
 
+        <p>
+            Computer Information Systems graduate and Software Engineering
+            graduate student with experience in software development,
+            Python programming, database systems, and IT support.
+        </p>
 
-<footer id="contact">
-   <p>Let's build something together.</p>
-   <div class="social-links">
-   <a href="#">GitHub</a>
-    
-   <a href="#">LinkedIn</a>
-</div>
-<p class="copyright">
-    &copy; 2026 Camille Dana. All rights reserved.
-</p>
-</footer>
-</body>
-</html>
+        <article>
+            <h3>University of Maryland Global Campus (UMGC)</h3>
 
+            <p>
+                <strong>Software Engineering Graduate Student</strong><br>
+                2025 – Present
+            </p>
+
+            <ul>
+                <li>Developing advanced software engineering skills through graduate coursework.</li>
+                <li>Studying software architecture, AI systems, and modern development practices.</li>
+                <li>Applying object-oriented design and software lifecycle methodologies.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>California State University, Stanislaus</h3>
+
+            <p>
+                <strong>Python Developer Student Projects</strong><br>
+                January 2018 – June 2024
+            </p>
+
+            <ul>
+                <li>Built Python applications to solve business and technical problems.</li>
+                <li>Created programs using object-oriented programming principles.</li>
+                <li>Worked with databases, data structures, and software development fundamentals.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Denair Unified School District</h3>
+
+            <p>
+                <strong>IT Support Assistant</strong><br>
+                January 2019 – November 2019
+            </p>
+
+            <ul>
+                <li>Provided technical support for faculty and staff.</li>
+                <li>Maintained computer labs and software installations.</li>
+                <li>Troubleshot hardware and software issues.</li>
+                <li>Assisted with system maintenance and documentation.</li>
+            </ul>
+        </article>
+    </section>
+
+    <!-- Education -->
+    <section id="education">
+        <h2>Education</h2>
+
+        <p>
+            <strong>University of Maryland Global Campus</strong><br>
+            Master of Science in Software Engineering<br>
+            Expected Graduation: 2028
+        </p>
+
+        <p>
+            <strong>California State University, Stanislaus</strong><br>
+            Bachelor of Science in Computer Information Systems<br>
+            Minor in Business Administration<br>
+            Graduated: 2024
+        </p>
+    </section>
+
+    <!-- Technical Skills -->
+    <section id="skills">
+        <h2>Technical Skills</h2>
+
+        <h3>Languages</h3>
+        <p>
+            Java, Python, SQL, JavaScript, HTML5, CSS3, C/C++
+        </p>
+
+        <h3>Databases</h3>
+        <p>
+            Oracle, PostgreSQL, MongoDB, MySQL
+        </p>
+
+        <h3>Tools & Platforms</h3>
+        <p>
+            Git, GitHub, Docker, VS Code, IntelliJ IDEA,
+            PyCharm, Jupyter Notebook, Postman
+        </p>
+
+        <h3>Cloud & Development</h3>
+        <p>
+            AWS, REST APIs, Agile, Scrum,
+            Object-Oriented Programming, Software Testing
+        </p>
+
+        <h3>Operating Systems</h3>
+        <p>
+            Linux (Ubuntu), Windows, Android, iOS
+        </p>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            I'm Camille Dana, a Software Engineering graduate student at
+            the University of Maryland Global Campus and a Computer
+            Information Systems graduate from California State University,
+            Stanislaus.
+        </p>
+
+        <p>
+            I enjoy building software that solves real-world problems,
+            learning emerging technologies, and exploring the intersection
+            of artificial intelligence, software engineering, and business.
+        </p>
+
+        <p>
+            My long-term goal is to build purpose-driven technology
+            solutions that create meaningful impact.
+        </p>
+    </section>
+
+    <!-- Speaking -->
+    <section id="speaking">
+        <h2>Speaking</h2>
+
+        <p>
+            Upcoming presentations, webinars, and technical talks
+            will be featured here.
+        </p>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects">
+        <h2>Featured Projects</h2>
+
+        <div class="project-card">
+            <h3>Hotel Management System</h3>
+
+            <p>
+                Object-oriented Java application featuring room
+                management, reservations, customer tracking,
+                and data validation.
+            </p>
+
+            <p>
+                <strong>Technologies:</strong>
+                Java, OOP, XML, UML
+            </p>
+
+            <a href="#">View Repository</a>
+        </div>
+
+        <div class="project-card">
+            <h3>Personal Portfolio Website</h3>
+
+            <p>
+                Responsive web design project showcasing software
+                engineering projects, skills, and professional growth.
+            </p>
+
+            <p>
+                <strong>Technologies:</strong>
+                HTML5, CSS3, JavaScript
+            </p>
+
+            <a href="#">View Repository</a>
+        </div>
+    </section>
+
+    <!-- Blog -->
+    <section id="musings">
+        <h2>Mod Musings</h2>
+
+        <article>
+            <h3>How I Learned StarUML in Two Weeks</h3>
+        </article>
+
+        <article>
+            <h3>Balancing Graduate School and Life</h3>
+        </article>
+
+        <article>
+            <h3>My Journey into AI Engineering</h3>
+        </article>
+    </section>
+
+    <!-- Resources -->
+    <section id="resources">
+        <h2>Resources</h2>
+
+        <h3>AI Engineering</h3>
+
+        <ul>
+            <li>Anthropic Prompt Engineering Guide</li>
+            <li>LangChain Documentation</li>
+            <li>OpenAI Platform Documentation</li>
+            <li>Hugging Face Learning Resources</li>
+        </ul>
+
+        <h3>Software Engineering</h3>
+
+        <ul>
+            <li>Oracle Documentation</li>
+            <li>Spring Boot Documentation</li>
+            <li>MDN Web Docs</li>
+            <li>GitHub Learning Lab</li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact">
+
+        <h2>Contact</h2>
+
+        <p>Let's build something together.</p>
+
+        <div class="social-links">
+            <a href="https://github.com/camilledana">GitHub</a>
+            <a href="#">LinkedIn</a>
+        </div>
+
+        <p>
+           
