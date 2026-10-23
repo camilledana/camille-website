@@ -189,6 +189,7 @@ LangChain Docs — Framework for building LLM-powered applications.</h2>
    <p>Let's build something together.</p>
    <div class="social-links">
    <a href="#">GitHub</a>
+    
    <a href="#">LinkedIn</a>
 </div>
  <p class="copyright">&copy;
