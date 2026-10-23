@@ -171,12 +171,6 @@ What I learned: ...</h3><h4>
 <h1>Mod Musings</h1>
 <h2>"How I learned StarUML in two weeks"</h2>
 <h2>"Balancing grad school and life"</h2>
-<h3>Title
-Date | Tags
-Intro paragraph
-Body (headers, code blocks, images)
-Takeaway or call to action</h3>
-<h1>Resources</h1>
        
 <h2>AI Engineering</h2>
 
