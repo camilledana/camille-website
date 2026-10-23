@@ -13,7 +13,7 @@
     <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
-            <a href="#" class="nav-logo">Developer Portfolio</a>
+          <a href="#" class="nav-logo">Developer Portfolio</a>
 
             <ul class="nav-links">
                 <li><a href="#work">Work</a></li>
