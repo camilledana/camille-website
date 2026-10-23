@@ -11,10 +11,10 @@
       <div class = "nav-container">
       <a href = "#" class="nav-logo"> Developer Portfolio<a/>
       <ul class = "nav-links">
-        <li><a heref="#about"> About</a></li>
-        <li><a heref="#skills"> Skills</a></li>
-        <li><a heref="#projects"> Projects</a></li>
-       <li><a heref="#contact"> Contact</a></li>
+        <li><a heref="#work"> Work</a></li>
+        <li><a heref="#about me"> About Me</a></li>
+        <li><a heref="#speaking"> Projects</a></li>
+       <li><a heref="#my projects"> Contact</a></li>
  </body>
 
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
