@@ -139,9 +139,7 @@ What I learned: ...
   <B>California State University of Stanislaus</b> | Turlock, California 
   Bachelor of Science in Computer Information Systems / <em> Business Administration </em> | 2024 
 
-<p>
-   <span style="background-color: #fff3a3; padding: 2px 4px;">highlighted text</span>.
-<b>TECHNICAL SKILLS</b></p>
+<b>TECHNICAL SKILLS</b>
 
   Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
 
