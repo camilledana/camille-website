@@ -4,10 +4,12 @@
 <head>
    <link rel="stylesheet" href="style.css">
     meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><header id="home" class="hero">
+   <a href="#home" class="nav-logo">Camille Dana</a>
     <title>Camille Dana | Developer Portfolio</title>
 </head>
 
+   
 <body>
 
     <!-- Navigation -->
