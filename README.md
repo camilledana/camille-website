@@ -115,18 +115,19 @@ What I learned: ...
     self._value=0
 </h3>
 
- <h2>EXPERIENCE</h2>
+ <h2><B>EXPERIENCE</h2></B>
 
    Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
 
-   **	UMGC | Adelphi, MD 
+  <em> UMGC </em> | Adelphi, MD 
+  Software Engineer | Now
    AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
 
-   **California State University, Stanislaus | Turlock, CA  
+  <em> California State University, Stanislaus </em> | Turlock, CA  
    Python Developer | January 2018 – June 2024		Software Engineer| January 2024 – Present 
    High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
 
-   **Denair Unified School District | Denair, CA USA 
+  <em> Denair Unified School District </em> | Denair, CA USA 
    IT Support Assistant | January 2019 – November 2019 
    Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
