@@ -177,6 +177,12 @@ Intro paragraph
 Body (headers, code blocks, images)
 Takeaway or call to action</h3>
 <h1>Resources</h1>
+       
+<h2>AI Engineering
+
+Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.
+
+LangChain Docs — Framework for building LLM-powered applications.</h2>
 
 <!=Footer/Contact Section-->
 <footer id="contact">
@@ -187,10 +193,6 @@ Takeaway or call to action</h3>
 </div>
  <p class="copyright">&copy;
 </footer>
-/body>
-/html>
-<h2>AI Engineering
+</body>
+</html>
 
-Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.
-
-LangChain Docs — Framework for building LLM-powered applications.</h2>
