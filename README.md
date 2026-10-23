@@ -131,15 +131,17 @@ What I learned: ...
    IT Support Assistant | January 2019 – November 2019 
    Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
-<B>EDUCATION</B> 
+<b>EDUCATION</b> 
 
   <B>University of Maryland Global Campus</B> | Adelphi, Maryland 
-  Master of Science in Software Engineering / Computer Science | 2028 
+  Master of Science in Software Engineering / <em> Computer Science </em> | 2028 
 
   <B>California State University of Stanislaus</b> | Turlock, California 
-  Bachelor of Science in Computer Information Systems / Business Administration | 2024 
+  Bachelor of Science in Computer Information Systems / <em> Business Administration </em> | 2024 
 
-TECHNICAL SKILLS 
+<p>
+  This is <span style="background-color: #fff3a3; padding: 2px 4px;">highlighted text</span>.
+</p> TECHNICAL SKILLS 
 
   Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
 
