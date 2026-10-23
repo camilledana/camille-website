@@ -121,19 +121,16 @@ What I learned: ...</h3><h4>
 
   <em><b>UMGC </em></b> | Adelphi, MD 
   Software Engineer | <em>2025-Now</em>
-  
-  AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
+    AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and          NoSQL(MongoDB)...
 
   <em><b> California State University, Stanislaus </em></b> | Turlock, CA  
    Python Developer | <em>January 2018 – June 2024</em>		
    Software Engineer| <em>January 2024 – Present</em> 
-   
-   High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
+      High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
 
   <em><b> Denair Unified School District </em></b> | Denair, CA USA 
    IT Support Assistant | <em>January 2019 – November 2019</em> 
-   
-   Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
+      Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
 <b>EDUCATION</b> 
 
