@@ -789,7 +789,7 @@
 
           <div class="contact-links">
             <a href="https://github.com/camilledana" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://linkedin.com/in/camilledana" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="mailto:camille@gmail.com">Email</a>
           </div>
         </div>
