@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -31,6 +31,18 @@
     <!-- Hero Section -->
     <header class="hero">
         <div class="hero-content">
+<div class="hero-buttons">
+    <a href="#work" class="btn btn-primary">View Work</a>
+
+    <a href="#musings" class="btn btn-secondary">
+        Read Musings
+    </a>
+
+    <a href="#contact" class="btn btn-contact">
+        Contact
+    </a>
+</div>
+        
             <h1>Camille Dana</h1>
 
             <h2>
