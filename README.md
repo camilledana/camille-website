@@ -117,7 +117,7 @@ What I learned: ...
 
  <h2><B>EXPERIENCE</h2></B>
 
-   Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems. 
+   <b>Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems.</b> 
 
   <em> UMGC </em> | Adelphi, MD 
   Software Engineer | Now
