@@ -121,7 +121,7 @@ What I learned: ...</h3><h4>
 
   <em><b>UMGC </em></b> | Adelphi, MD 
   Software Engineer | <em>Now</em>
-   AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
+  AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
 
   <em><b> California State University, Stanislaus </em></b> | Turlock, CA  
    Python Developer | <em>January 2018 – June 2024</em>		Software Engineer| <em>January 2024 – Present</em> 
