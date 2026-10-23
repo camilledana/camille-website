@@ -120,7 +120,7 @@ What I learned: ...</h3><h4>
    <b>Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems.</b> 
 
   <em><b>UMGC </em></b> | Adelphi, MD 
-  Software Engineer | <em>Now</em>
+  Software Engineer | <em>2025-Now</em>
   AWS & Microservices: Deployed serverless APIs (AWS Lambda, API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and NoSQL    (MongoDB)...
 
   <em><b> California State University, Stanislaus </em></b> | Turlock, CA  
