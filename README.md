@@ -13,8 +13,10 @@
       <ul class = "nav-links">
         <li><a heref="#work"> Work</a></li>
         <li><a heref="#about me"> About Me</a></li>
-        <li><a heref="#speaking"> Projects</a></li>
-       <li><a heref="#my projects"> Contact</a></li>
+        <li><a heref="#speaking"> Speaking</a></li>
+        <li><a heref="#my projects"> My Projects</a></li>
+        <li><a heref="#mod musings> Mod Musings</a></li>
+        <li><a heref="#resources"> Resources</a></li>
  </body>
 
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
