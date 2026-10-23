@@ -15,16 +15,16 @@
         <div class="nav-container">
           <a href="#" class="nav-logo">Developer Portfolio</a>
 
-            <ul class="nav-links">
-                <li><a href="#work">Work</a></li>
-                <li><a href="#experience">Experience</a></li>
-                <li><a href="#about">About Me</a></li>
-                <li><a href="#speaking">Speaking</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#musings">Mod Musings</a></li>
-                <li><a href="#resources">Resources</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+           <ul class="nav-links">
+    <li><a href="#work">Work</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#speaking">Speaking</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#musings">Mod Musings</a></li>
+    <li><a href="#resources">Resources</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
         </div>
     </nav>
 
