@@ -4,7 +4,6 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
- <strong></strong><b></b><h1>Camille Dana </h1>
  <body>
     <!--Navigation Bar-->
   <nav class="navbar">
