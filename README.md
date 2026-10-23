@@ -131,12 +131,12 @@ What I learned: ...
    IT Support Assistant | January 2019 – November 2019 
    Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
-EDUCATION 
+<B>EDUCATION</B> 
 
-  University of Maryland Global Campus | Adelphi, Maryland 
+  <B>University of Maryland Global Campus</B> | Adelphi, Maryland 
   Master of Science in Software Engineering / Computer Science | 2028 
 
-  California State University of Stanislaus | Turlock, California 
+  <B>California State University of Stanislaus</b> | Turlock, California 
   Bachelor of Science in Computer Information Systems / Business Administration | 2024 
 
 TECHNICAL SKILLS 
