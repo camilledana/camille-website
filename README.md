@@ -9,7 +9,7 @@
     <!--Navigation Bar-->
     <nav class = "navbar >
       <div class = "nav-container">
-      <a href = "#" class="nav-logo"> DeveloperPortfolio<a/>
+      <a href = "#" class="nav-logo"> Developer Portfolio<a/>
       <ul class = "nav-links">
         <li><a heref="#about"> About</a></li>
         <li><a heref="#skills"> Skills</a></li>
