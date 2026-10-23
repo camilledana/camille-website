@@ -185,14 +185,14 @@ flex-growth:1;
     font-weight:500;
 }
 
-/*My Projects Layout#/
-.projects-grid{
+/*Mod Musings#/
+.mod musings-grid{
     display:grid;
     grid-template-colums:1 repeat(auto-fit,minmax(320px,1fr);
     gap:30px;
 }
 
-.project-card{
+.mod musings-card{
     background-color:var(--card-bg);
     padding:30px;
     border-radius:8px;
@@ -200,7 +200,7 @@ flex-growth:1;
     flex-direction:column;
 }
 
-.project-card p{
+.mod musings-card p{
     color:var(--text-muted);
     margin-bottom:20px
     flex-growth:1;
@@ -215,3 +215,61 @@ flex-growth:1;
 .project-tags spam{
     background-color:var(--light-bg);
     padding:4px 10px;
+    font-size:0.8 rem;
+    border-radius:4px;
+    font-weight:500;
+}
+
+/*Mod Musings Layout#/
+.projects-grid{
+    display:grid;
+    grid-template-colums:1 repeat(auto-fit,minmax(320px,1fr);
+    gap:30px;
+}
+
+.project-card{
+    background-color:var(--card-bg);
+    padding:30px;
+    border-radius:8px;
+    display:flex;
+    flex-direction:column;
+}
+
+.mod musings-card p{
+    color:var(--text-muted);
+    margin-bottom:20px
+    flex-growth:1;
+)
+
+.mod musings-tags{
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+.mod musings-tags spam{
+    background-color:var(--light-bg);
+    padding:4px 10px;
+    font-size:0.8 rem;
+    border-radius:4px;
+    font-weight:500;
+}
+
+/*Footer Section*/
+footer{
+    background-color:var(--dar-bg);
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+.social-links a:hover{
+    color:white;
+}
+
+.copyright{
+    font-size:0.85 rem;
+    color:var(-text-muted);
+}
+
+
