@@ -25,7 +25,7 @@
               
  </body>
 
-<h1>Camille Dana</h1>
+<h1><strong>Camille Dana</strong></h1>
 
 <h2>
 Software Engineer | AI-Native Systems Builder |
