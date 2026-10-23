@@ -42,10 +42,12 @@
                 cloud computing, backend development, and entrepreneurship.
             </p>
 
-            <a href="#work">View Work</a>
-            <a href="#musings">Read Musings</a>
-            <a href="#contact">Contact</a>
-        </div>
+    <div class="hero-buttons">
+        <a href="#work" class="btn">View Work</a>
+        <a href="#musings" class="btn btn-secondary">Read Musings</a>
+        <a href="#contact" class="btn btn-outline">Contact</a>
+    </div>
+
     </header>
 
     <!-- Work Section -->
