@@ -26,7 +26,12 @@
               
  </body>
 
-<h2>Software Engineering Graduate Student | Building AI-Native Systems</h2>
+<h1>Camille Dana</h1>
+
+<h2>
+Software Engineer | AI-Native Systems Builder |
+Graduate Student at UMGC
+</h2>
 
 <div class="hero-buttons">
     <a href="#work">View Work</a>
