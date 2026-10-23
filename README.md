@@ -152,9 +152,22 @@ TECHNICAL SKILLS
 <section id= = "projects" class = "section alt-by">
    <h2>Featured Projects</h2>
    <div class ="projects-grid">
+    <--Project 1-->
+    <div class="project-card">
       <h3>Hotel Management System</h3>
       <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
       <div class = "project-tags"><span>Java/span<span>OOP</span></div>
+       <aref="#" class="project-link">View Repository --></a>
+      <div>
+    <!--Project 2-->
+    <div class="project-card">
+    <h3>Custom Web Application</h3>
+     <p>A responsive front-end project engineered with semantics, accessibility, and modern layouts optimized for performance.</p>
+     <div class-"project-tags"><span>HTML5</span><span>CSS3</span><span>UI Mockup</span></div>
+     <a href="#"class="project-link">View Repository--></a>
+    <div></div>
+    </section>
+      </div>
 <h1>Mod Musings</h1>
 <h2>"How I learned StarUML in two weeks"</h2>
 <h2>"Balancing grad school and life"</h2>
@@ -164,6 +177,18 @@ Intro paragraph
 Body (headers, code blocks, images)
 Takeaway or call to action</h3>
 <h1>Resources</h1>
+
+<!=Footer/Contact Section-->
+<footer id="contact">
+   <p>Let's build something together.</p>
+   <div class="social-links">
+   <a href="#">GitHub</a>
+   <a href="#">LinkedIn</a>
+</div>
+ <p class="copyright">&copy;
+</footer>
+/body>
+/html>
 <h2>AI Engineering
 
 Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.
