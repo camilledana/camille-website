@@ -21,13 +21,18 @@
       </div>
       </nav>
         <!--Hero Section-->
-        <header class + "hero">
+           <header class="hero">
            <div class = "hero-content">
               
  </body>
 
-<h2>Software Engineering Graduate Student | Building AI-Native Systems
-[View Work] [Read Musings] [Contact]<h2/>
+<h2>Software Engineering Graduate Student | Building AI-Native Systems</h2>
+
+<div class="hero-buttons">
+    <a href="#work">View Work</a>
+    <a href="#musings">Read Musings</a>
+    <a href="#contact">Contact</a>
+</div>
 <h1>Work</h1>
  
   <h3>Employee gross wage
@@ -115,22 +120,42 @@ What I learned: ...</h3><h4>
     self._value=0
 </h4>
 
- <h2><B>EXPERIENCE</h2></B>
+<section id="experience">
+    <h2>Experience</h2>
 
-   <b>Systems Engineer with 5+ years of experience in embedded systems, software platforms, and computing systems.</b> 
+    <article>
+        <h3>University of Maryland Global Campus (UMGC)</h3>
+        <p><strong>Software Engineer</strong> | 2025-Present</p>
+        <ul>
+            <li>Built and deployed API-driven applications.</li>
+            <li>Integrated PostgreSQL and MongoDB databases.</li>
+            <li>Developed Docker-based services and backend systems.</li>
+        </ul>
+    </article>
 
-  <em><b>UMGC </em></b> | Adelphi, MD 
-  Software Engineer | <em>2025-Now</em>
-   Microservices: Deployed serverless APIs (API Gateway) and containerized services (Docker) to handle users. Integrated RDBMS (PostgreSQL) and          NoSQL(MongoDB)...
+    <article>
+        <h3>California State University, Stanislaus</h3>
+        <p><strong>Python Developer</strong> | January 2018-June 2024</p>
 
-  <em><b> California State University, Stanislaus </em></b> | Turlock, CA  
-   Python Developer | <em>January 2018 – June 2024</em>		
-   Software Engineer| <em>January 2024 – Present</em> 
-      High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
+        <ul>
+            <li>Created Python applications and automation tools.</li>
+            <li>Developed data-processing and software engineering projects.</li>
+            <li>Applied object-oriented design principles.</li>
+        </ul>
+    </article>
 
-  <em><b> Denair Unified School District </em></b> | Denair, CA USA 
-   IT Support Assistant | <em>January 2019 – November 2019</em> 
-      Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
+    <article>
+        <h3>Denair Unified School District</h3>
+        <p><strong>IT Support Assistant</strong> | January 2019-November 2019</p>
+
+        <ul>
+            <li>Supported faculty, staff, and student technology needs.</li>
+            <li>Maintained computer lab hardware and software.</li>
+            <li>Troubleshot workstation and network issues.</li>
+        </ul>
+    </article>
+</section>
+
 <b>EDUCATION</b> 
 
   <B>University of Maryland Global Campus</B> | Adelphi, Maryland 
@@ -149,21 +174,21 @@ What I learned: ...</h3><h4>
 <h1>Speaking</h1>
 <h1>My Projects</h1>
 <!--Projects Section-->
-<section id= = "projects" class = "section alt-by">
+<section id="projects" class="section alt-bg">
    <h2>Featured Projects</h2>
    <div class ="projects-grid">
     <!--Project 1-->
     <div class="project-card">
       <h3>Hotel Management System</h3>
       <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
-      <div class = "project-tags"><span>Java/span<span>OOP</span></div>
+      <div class ="project-tags"><span>Java/span><span>OOP</span></div>
        <a href="#" class="project-link">View Repository --></a>
       <div>
     <!--Project 2-->
     <div class="project-card">
     <h3>Custom Web Application</h3>
      <p>A responsive front-end project engineered with semantics, accessibility, and modern layouts optimized for performance.</p>
-     <div class-"project-tags"><span>HTML5</span><span> CSS3</span><span> UI Mockup</span></div>
+     <div class="project-tags"><span>HTML5</span><span> CSS3</span><span> UI Mockup</span></div>
      <a href="#"class="project-link">View Repository --></a>
     <div></div>
     </section>
@@ -186,7 +211,9 @@ What I learned: ...</h3><h4>
     
    <a href="#">LinkedIn</a>
 </div>
- <p class="copyright">&copy;
+<p class="copyright">
+    &copy; 2026 Camille Dana. All rights reserved.
+</p>
 </footer>
 </body>
 </html>
