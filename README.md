@@ -180,8 +180,8 @@ Takeaway or call to action</h3>
        
 <h2>AI Engineering</h2>
 
-<h3><li><ul>Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.</li> 
- 
+<h3><ul>
+<li>Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.</li> 
 <li>LangChain Docs — Framework for building LLM-powered applications.</li></h3></ul>
 
 <!=Footer/Contact Section-->
