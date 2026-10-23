@@ -32,7 +32,7 @@
  
   <h3>Employee gross wage
 
-What I learned: ...
+What I learned: ...</b>
 
     user=input('Please enter employee name: ')
     hrpay=float(input('hourly wage in dollars: '))
