@@ -178,6 +178,7 @@ What I learned: ...</h3><h4>
 <li>Anthropic's Prompt Engineering Guide — Practical guide for working with Claude and other LLMs.</li> 
 <li>LangChain Docs — Framework for building LLM-powered applications.</li></h4></ul>
 
+
 <footer id="contact">
    <p>Let's build something together.</p>
    <div class="social-links">
