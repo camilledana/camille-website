@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang = "en">
  <head>
-    <meta charset +"UTF-8">
-    <meta name = "viewport" content = width = device-width, initial-scale=
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
  <strong></strong><b></b><h1>Camille Dana </h1>
  <body>
     <!--Navigation Bar-->
-    <nav class = "navbar >
+  <nav class="navbar">
       <div class = "nav-container">
-      <a href = "#" class="nav-logo"> Developer Portfolio<a/>
+      <a href="#" class="nav-logo">Developer Portfolio</a>
       <ul class = "nav-links">
-        <li><a heref="#work"> Work</a></li>
-        <li><a heref="#about me"> About Me</a></li>
-        <li><a heref="#speaking"> Speaking</a></li>
-        <li><a heref="#my projects"> My Projects</a></li>
-        <li><a heref="#mod musings> Mod Musings</a></li>
-        <li><a heref="#resources"> Resources</a></li>
+        <li><a href="#work"> Work</a></li>
+        <li><a href="#about me"> About Me</a></li>
+        <li><a href="#speaking"> Speaking</a></li>
+        <li><a href="#my projects"> My Projects</a></li>
+        <li><a href="#mod musings> Mod Musings</a></li>
+        <li><a href="#resources"> Resources</a></li>
       </ul>
       </div>
       </nav>
