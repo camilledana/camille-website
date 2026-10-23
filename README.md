@@ -17,6 +17,13 @@
         <li><a heref="#my projects"> My Projects</a></li>
         <li><a heref="#mod musings> Mod Musings</a></li>
         <li><a heref="#resources"> Resources</a></li>
+      </ul>
+      </div>
+      </nav>
+        <!--Hero Section-->
+        <header class + "hero">
+           <div class = "hero-content">
+              
  </body>
 
 <h2>Software Engineering Graduate Student | Building AI-Native Systems
