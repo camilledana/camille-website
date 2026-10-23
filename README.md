@@ -128,7 +128,7 @@ What I learned: ...
    High-Performance Compute (HPC), SoC Architecture, GPU/CPU Resource Allocation, Platform Lifecycle (Boot/Shutdown/OTA), Data Integrity...
 
   <em><b> Denair Unified School District </em></b> | Denair, CA USA 
-   IT Support Assistant | <em>January 2019 – November 2019</em? 
+   IT Support Assistant | <em>January 2019 – November 2019</em> 
    Cloud-Native Data Systems; deployment and maintenance of multiple computer lab software programs...
 
 <b>EDUCATION</b> 
@@ -140,7 +140,6 @@ What I learned: ...
   Bachelor of Science in Computer Information Systems / <em> Business Administration </em> | 2024 
 
 <b>TECHNICAL SKILLS</b>
-
   Operating Systems: Linux (Ubuntu), iOS, Android. Languages: Java, Python, C/C++, JavaScript, SQL, HTML/CSS, English (Native). Tools & Platforms: Git/GitHub, Docker,    MySQL, MongoDB, PostgreSQL, AWS (EC2, S3), Jira, Postman, Visual Studio Code, Intelli J, PyCharm, Jupyter Notebook, Matplotlib. Protocols: RESTful APIs, Agile/Scrum,   CI/CD, Unit Testing (JUnit), Data Structures, Object-Oriented Programming Frameworks and Libraries: React, Node .js, Spring Boot, Express .js, jQuery.
 
 
