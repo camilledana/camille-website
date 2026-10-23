@@ -32,7 +32,7 @@
  
   <h3>Employee gross wage
 
-What I learned: ...</h3><h1>
+What I learned: ...</h3><h4>
 
     user=input('Please enter employee name: ')
     hrpay=float(input('hourly wage in dollars: '))
@@ -48,11 +48,11 @@ What I learned: ...</h3><h1>
     print("Base Pay: $" + str(basepay))
     print("Overtime: $" + str(overtime))
     print("Gross Pay: $" + str(grosspay))
-</h2>
+</h4>
 
    <h3>Use a dictionary to track student grades and loop until quit.
  
-What I learned: ...</h3><h1>
+What I learned: ...</h3><h4>
     
     grades = {}
     choice = ""
@@ -100,12 +100,12 @@ What I learned: ...</h3><h1>
      else :
      print("Sorry, that wasn't a valid choice.")
 
-</h1>
+</h4>
 
 
 <h3>Count a class tally with a limited number of people in Python.
 
- What I learned: ...</h3><h1>
+ What I learned: ...</h3><h4>
  
     def getValue(self):
     return self.value
@@ -113,7 +113,7 @@ What I learned: ...</h3><h1>
     self._value=self._value+1
     def reset(self):
     self._value=0
-</h1>
+</h4>
 
  <h2><B>EXPERIENCE</h2></B>
 
