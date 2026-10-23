@@ -148,6 +148,13 @@ TECHNICAL SKILLS
 
 <h1>Speaking</h1>
 <h1>My Projects</h1>
+<!--Projects Section-->
+<section id= = "projects" class = "section alt-by">
+   <h2>Featured Projects</h2>
+   <div class ="projects-grid">
+      <h3>Hotel Management System</h3>
+      <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
+      <div class = "project-tags"><span>Java/span<span>OOP</span></div>
 <h1>Mod Musings</h1>
 <h2>"How I learned StarUML in two weeks"</h2>
 <h2>"Balancing grad school and life"</h2>
