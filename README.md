@@ -152,7 +152,7 @@ TECHNICAL SKILLS
 <section id= = "projects" class = "section alt-by">
    <h2>Featured Projects</h2>
    <div class ="projects-grid">
-    <--Project 1-->
+    <!--Project 1-->
     <div class="project-card">
       <h3>Hotel Management System</h3>
       <p>An object-oriented Java application built utilizing rigorous OOA&D design patterns, featuring custom room tracking and reservation flows.</p>
@@ -163,7 +163,7 @@ TECHNICAL SKILLS
     <div class="project-card">
     <h3>Custom Web Application</h3>
      <p>A responsive front-end project engineered with semantics, accessibility, and modern layouts optimized for performance.</p>
-     <div class-"project-tags"><span>HTML5</span><span>CSS3</span><span>UI Mockup</span></div>
+     <div class-"project-tags"><span>HTML5</span><span> CSS3</span><span> UI Mockup</span></div>
      <a href="#"class="project-link">View Repository--></a>
     <div></div>
     </section>
