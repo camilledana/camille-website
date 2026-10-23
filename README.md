@@ -295,7 +295,10 @@ def reset(self):
                 Java, OOP, XML, UML
             </p>
 
-            <a href="#">View Repository</a>
+            <a href=<a href="https://github.com/camilledana/hotel-management-system"
+            class="project-link" target="_blank">
+            View Repository →
+        </a>
         </div>
 
         <div class="project-card">
@@ -362,10 +365,15 @@ def reset(self):
 
         <p>Let's build something together.</p>
 
-        <div class="social-links">
-            <a href="https://github.com/camilledana">GitHub</a>
-            <a href="#">LinkedIn</a>
-        </div>
+       <div class="social-links">
+    <a href="https://github.com/camilledana" target="_blank">
+        GitHub
+    </a>
+
+    <a href="https://www.linkedin.com/in/camilledana" target="_blank">
+        LinkedIn
+    </a>
+</div>
 
         <p>
            
