@@ -378,15 +378,28 @@ def reset(self):
 
         <p>Let's build something together.</p>
 
-       <div class="social-links">
-    <a href="https://github.com/camilledana" target="_blank">
-        GitHub
+     <div class="social-links">
+
+    <a href="https://github.com/camilledana"
+       target="_blank"
+       rel="noopener noreferrer">
+       GitHub
     </a>
 
-    <a href="https://www.linkedin.com/in/camilledana" target="_blank">
-        LinkedIn
+    <a href="https://www.linkedin.com/"
+       target="_blank"
+       rel="noopener noreferrer">
+       LinkedIn
     </a>
+
 </div>
+
+<a href="https://github.com/camilledana/camille-website"
+   class="project-link"
+   target="_blank"
+   rel="noopener noreferrer">
+   View Repository →
+</a>
 
         <p>
            
