@@ -671,7 +671,7 @@
               </p>
               <div class="project-links">
                 <a href="https://github.com/camilledana/hotel-management-system" target="_blank" rel="noopener noreferrer">
-                  View Repository →
+                  View Repository → https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fcamilledana%2FReservation_System_OOP%2Frefs%2Fheads%2Fmain%2FSDD_ReservationSystem.docx&wdOrigin=BROWSELINK
                 </a>
               </div>
             </article>
